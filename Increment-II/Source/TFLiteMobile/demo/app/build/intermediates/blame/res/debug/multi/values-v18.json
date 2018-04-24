@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/rohithkumarn/Documents/GitHub/Big-Data-Project/Increment-II/Source/TFLiteMobile/demo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/rohithkumarn/.android/build-cache/42cf29538898c48c94575271690474516c281823/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]
